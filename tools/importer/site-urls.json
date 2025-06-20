@@ -4,43 +4,109 @@
   "urls": [
     {
       "url": "https://www.freedomboatclub.co.uk/",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/",
       "id": "66f41ce02b471e3f67460d8e253e6ffd5b64ec7b"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk//ajax.googleapis.com",
+      "source": "CRAWL",
+      "targetPath": "/ajax-googleapis-com",
+      "id": "2bd169b11e8b5f3bd0f8f9a99e80b2ece585a7b8"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//cdn.cookielaw.org/",
+      "source": "CRAWL",
+      "targetPath": "/cdn-cookielaw-org",
+      "id": "d52a1846cd5aa5ebe202abab2f14be6324373c88"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//cdnjs.cloudflare.com",
+      "source": "CRAWL",
+      "targetPath": "/cdnjs-cloudflare-com",
+      "id": "68b6ae4781913f7dde5442ede4b8aa397c58759f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//connect.facebook.net",
+      "source": "CRAWL",
+      "targetPath": "/connect-facebook-net",
+      "id": "8a21f22aa823d3fe1efe7f2c21298696b488a113"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//www.google-analytics.com",
+      "source": "CRAWL",
+      "targetPath": "/www-google-analytics-com",
+      "id": "5207369802652a951cc08de03bcf66c28b2a6d55"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//www.googleadservices.com",
+      "source": "CRAWL",
+      "targetPath": "/www-googleadservices-com",
+      "id": "833be2ef8f34c806488ce218944ceb78b7efb994"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk//www.googletagmanager.com",
+      "source": "CRAWL",
+      "targetPath": "/www-googletagmanager-com",
+      "id": "790685417210376b68a4d4a32419dab0a6a53ccc"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en",
+      "source": "CRAWL",
+      "targetPath": "/en",
+      "id": "a4255af2dd25d529a9bac48b9ff3d606daeb52a3"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/about-us",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/about-us",
       "id": "d911434380687ad7b24dce6bacb2b0699932d631"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/bases",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/bases",
       "id": "25d70218720d0f782b86f01e660e81f9608b5f54"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/",
+      "source": "CRAWL",
+      "targetPath": "/en/bases",
+      "id": "25c6a9fcdbcb03ff3b3fe338eb058bf0e7ab0d7c"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/chertsey_21046",
+      "source": "CRAWL",
+      "targetPath": "/en/bases/chertsey-21046",
+      "id": "a52a4f3332cc17c423ce108ea52630f422b18c32"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/bases/hythe-marina-village_21018",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/bases/hythe-marina-village-21018",
       "id": "9ad3dae19dbdfa09fb9bfe7f0bc3439610ed169f"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/bases/loch-lomond_21032",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/bases/loch-lomond-21032",
       "id": "852ceeaac4c5b273ca130016c4d610ea8688e00d"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/swanwick_21047",
+      "source": "CRAWL",
+      "targetPath": "/en/bases/swanwick-21047",
+      "id": "905039c5ea9c66bfc259560f00dfe3e49d84f2ef"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/bases/torquay_21022",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/bases/torquay-21022",
       "id": "aeae347e9001ef320dff9edebed0afab597169ca"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/bases/windermere_21021",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/bases/windermere-21021",
       "id": "84ced0bb1d5feec2434f07824933b6312fe16e6a"
     },
@@ -51,64 +117,232 @@
       "id": "dc8cdc9bbea88d456c5339d66606c8f749808064"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/",
+      "source": "CRAWL",
+      "targetPath": "/en/boats",
+      "id": "dc65c49f32b7068df53c12140fe041f4cebd5058"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/alpha_268",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/alpha-268",
+      "id": "8071fecbc2787be43e38d11e67b8967c3388ecbc"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/alpha-rand-picnic-18_268",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/alpha-rand-picnic-18-268",
+      "id": "6baf0ec2d2df05da788b8618b22745c90636bdc6"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/aquarius-star_277",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/aquarius-star-277",
+      "id": "d5beebedbe5a9ff71f93944fe76fde6721e4dea9"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/aquarius-star-brig-eagle-6-7_277",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/aquarius-star-brig-eagle-6-7-277",
+      "id": "5197661d60c261e43fa4372c78faa762a5f83374"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/bellatrix_269",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/bellatrix-269",
+      "id": "0f7e43909c2699c5d8b7dfd5ac48e376936fdc6f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/bellatrix-rand-mana-23_269",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/bellatrix-rand-mana-23-269",
+      "id": "7abaccb514b5a36ebd27d279af4592d656e12514"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/florida_231",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/florida-231",
       "id": "f4dcc06360dd292eef9fcdfe8575ba5622b63325"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/florida-bayliner-vr6_231",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/florida-bayliner-vr6-231",
+      "id": "67f726a3dc5b8a7a1a47045b319b96fb34ba7f63"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/grand-rib-5-8_241",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/grand-rib-5-8-241",
+      "id": "e6ce62b100f02b1d3665d395b4c355f2e51de6c2"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/grand-rib-5-8-grand-g580_241",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/grand-rib-5-8-grand-g580-241",
+      "id": "9e573b1f639c839f660e5a5fe18dbe5e7ba4aa87"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/gulfstream-5-5_224",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/gulfstream-5-5-224",
       "id": "5c9455bf8fa8128ee5f23b6fb5ab9dea4dfc6b5f"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/gulfstream-5-5-zodiac-gulfstream-5-5_224",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/gulfstream-5-5-zodiac-gulfstream-5-5-224",
+      "id": "e2fe2ffb8f3bc4254bb6b43a73005ef65bc49b64"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/hawaii_226",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/hawaii-226",
       "id": "418ec3ebe4e5f62279368d193c7e5a3fd142e7b2"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/hawaii-quicksilver-675-open_226",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/hawaii-quicksilver-675-open-226",
+      "id": "2da2f9387ff4b76a21e4b5c3775f7a0542480674"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/kansas_232",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/kansas-232",
       "id": "145698f2e26432b9592574b41e6c846a9132a767"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/kansas-ballistic-rib_232",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/kansas-ballistic-rib-232",
+      "id": "2d29afca55aad8799296367f6b08427012684853"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/laphroaig_229",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/laphroaig-229",
       "id": "8acc2767cbf78381bc70fca120fb80c321408ee4"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/laphroaig-searay-spx-230_229",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/laphroaig-searay-spx-230-229",
+      "id": "8273bb1151c7e7f0a6396164fcd26526b226b807"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/medline-6-8_222",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/medline-6-8-222",
       "id": "40a7c8cd9fcdcb8aed151b0b97a8341e80ea6677"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-6-8-zodiac-medline-6-8_222",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/medline-6-8-zodiac-medline-6-8-222",
+      "id": "3e952d60de8de26172b0d123f82a20d98bfa0a1b"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-75_280",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/medline-75-280",
+      "id": "6917c2f0f636d15ed195708926dadd43f159e4b4"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-75-zodiac-medline-7-5_280",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/medline-75-zodiac-medline-7-5-280",
+      "id": "0965230ac1d16635bcb17aa36c272e5ac8f159e1"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/medline-aqua_223",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/medline-aqua-223",
       "id": "cc642527a6d33ce76a84848d0b533f4800a89e5b"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-aqua-zodiac-medline-6-8_223",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/medline-aqua-zodiac-medline-6-8-223",
+      "id": "9c47afb6856a4b3104f77d8bf22f3989f6e6e72e"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/new-hampshire_228",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/new-hampshire-228",
       "id": "d697c0da5ae8461f0932256e1420fb723be4222e"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/new-hampshire-quicksilver-675-weekends_228",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/new-hampshire-quicksilver-675-weekends-228",
+      "id": "d112cda0f6412f462ffe3a8402680f67e6e3ff7d"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/boats/pilothouse-705_225",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/pilothouse-705-225",
       "id": "e27d57417e7847ed9b26f97d876b5ce48118fc4f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/pilothouse-705-quicksilver-pilothouse-705_225",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/pilothouse-705-quicksilver-pilothouse-705-225",
+      "id": "61f303114946de9b471e384f787ecb225b7ecf1a"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/quicksilver-675-weekend_282",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/quicksilver-675-weekend-282",
+      "id": "9c975d066acfbb48d80b32eb99f1233a91342388"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/quicksilver-675-weekend-quicksilver-675-weekend_282",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/quicksilver-675-weekend-quicksilver-675-weekend-282",
+      "id": "42abb189d82f5bb1943a7254c06fe3ad9587396d"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/raer_230",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/raer-230",
+      "id": "5ed3f1d5be5aa48729f021a6eaf0742f7129e1ee"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/raer-searay-210-spx_230",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/raer-searay-210-spx-230",
+      "id": "01512264435a6166cdbabe2969bc93a3eb69e3f1"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/boats/rear_230",
       "source": "SITEMAPS",
       "targetPath": "/en/boats/rear-230",
       "id": "9fdbead7c416f7b25204edebab304a31b456a11d"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/trident-star_275",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/trident-star-275",
+      "id": "3839f99b324c5eaf0d12395af6645bb304aba15b"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/trident-star-iron-767_275",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/trident-star-iron-767-275",
+      "id": "734ca74125ab5089a071cf7069c0095a9cac3c6a"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/vr5_240",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/vr5-240",
+      "id": "3a40b9ba937bdb6e74bdf2f02c9f3bb977e87f52"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/vr5-bayliner-vr5_240",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/vr5-bayliner-vr5-240",
+      "id": "ff6670ae99d2e4b09df7fa737a84e9028104872a"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/boats/vr5-one_240",
@@ -124,25 +358,43 @@
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/boats/wisconsin_233",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/boats/wisconsin-233",
       "id": "9b68e5a3fb430fd123bd90332291529f2951186b"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/wisconsin-quicksilver-675-weekend_233",
+      "source": "CRAWL",
+      "targetPath": "/en/boats/wisconsin-quicksilver-675-weekend-233",
+      "id": "b14d7b63cbaa8e8e58cd225c538160f238aee1de"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/contact-us",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/contact-us",
       "id": "dbeb48d02a1d61cdcbd8298111865ca62f33e2d1"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/contact-us?dynTpl=emptyTemplate",
+      "source": "CRAWL",
+      "targetPath": "/en/contact-us",
+      "id": "606276e1b790ad5abb4265ba07a48ca2bcb5b3e7"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/franchise",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/franchise",
       "id": "387a2a9199d221cabbfe5df0f137bca7422b5883"
     },
     {
+      "url": "https://www.freedomboatclub.co.uk/en/franchise-uk",
+      "source": "CRAWL",
+      "targetPath": "/en/franchise-uk",
+      "id": "54bd1deb4ce53647bb8d183cb481063998521b5a"
+    },
+    {
       "url": "https://www.freedomboatclub.co.uk/en/membership",
-      "source": "SITEMAPS",
+      "source": "CRAWL",
       "targetPath": "/en/membership",
       "id": "e4c36bd22eb8a47511d1aa0fad043db82072f6a8"
     }
@@ -154,10 +406,10 @@
     "limit": -1,
     "sameDomain": true,
     "keepHash": false,
-    "strategy": "SITEMAPS",
+    "strategy": "crawl",
     "logger": {},
     "strategiesAttempted": [
-      "SITEMAPS"
+      "CRAWL"
     ]
   },
   "extractionErrors": [
@@ -166,8 +418,12 @@
       "status": "404 Not Found"
     },
     {
-      "url": "https://www.freedomboatclub.co.uk/en/boats/montana_227",
-      "status": "404 Not Found"
+      "url": "https://www.freedomboatclub.co.uk/min/css-fbc",
+      "status": "content type is not text/html"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/public/files/1556-en-css",
+      "status": "content type is not text/html"
     }
   ]
 }
