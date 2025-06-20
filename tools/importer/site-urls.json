@@ -1,0 +1,173 @@
+{
+  "originUrl": "https://www.freedomboatclub.co.uk",
+  "lastCrawled": "https://www.freedomboatclub.co.uk/",
+  "urls": [
+    {
+      "url": "https://www.freedomboatclub.co.uk/",
+      "source": "SITEMAPS",
+      "targetPath": "/",
+      "id": "66f41ce02b471e3f67460d8e253e6ffd5b64ec7b"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/about-us",
+      "source": "SITEMAPS",
+      "targetPath": "/en/about-us",
+      "id": "d911434380687ad7b24dce6bacb2b0699932d631"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases",
+      "source": "SITEMAPS",
+      "targetPath": "/en/bases",
+      "id": "25d70218720d0f782b86f01e660e81f9608b5f54"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/hythe-marina-village_21018",
+      "source": "SITEMAPS",
+      "targetPath": "/en/bases/hythe-marina-village-21018",
+      "id": "9ad3dae19dbdfa09fb9bfe7f0bc3439610ed169f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/loch-lomond_21032",
+      "source": "SITEMAPS",
+      "targetPath": "/en/bases/loch-lomond-21032",
+      "id": "852ceeaac4c5b273ca130016c4d610ea8688e00d"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/torquay_21022",
+      "source": "SITEMAPS",
+      "targetPath": "/en/bases/torquay-21022",
+      "id": "aeae347e9001ef320dff9edebed0afab597169ca"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/windermere_21021",
+      "source": "SITEMAPS",
+      "targetPath": "/en/bases/windermere-21021",
+      "id": "84ced0bb1d5feec2434f07824933b6312fe16e6a"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats",
+      "id": "dc8cdc9bbea88d456c5339d66606c8f749808064"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/florida_231",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/florida-231",
+      "id": "f4dcc06360dd292eef9fcdfe8575ba5622b63325"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/gulfstream-5-5_224",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/gulfstream-5-5-224",
+      "id": "5c9455bf8fa8128ee5f23b6fb5ab9dea4dfc6b5f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/hawaii_226",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/hawaii-226",
+      "id": "418ec3ebe4e5f62279368d193c7e5a3fd142e7b2"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/kansas_232",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/kansas-232",
+      "id": "145698f2e26432b9592574b41e6c846a9132a767"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/laphroaig_229",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/laphroaig-229",
+      "id": "8acc2767cbf78381bc70fca120fb80c321408ee4"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-6-8_222",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/medline-6-8-222",
+      "id": "40a7c8cd9fcdcb8aed151b0b97a8341e80ea6677"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/medline-aqua_223",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/medline-aqua-223",
+      "id": "cc642527a6d33ce76a84848d0b533f4800a89e5b"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/new-hampshire_228",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/new-hampshire-228",
+      "id": "d697c0da5ae8461f0932256e1420fb723be4222e"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/pilothouse-705_225",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/pilothouse-705-225",
+      "id": "e27d57417e7847ed9b26f97d876b5ce48118fc4f"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/rear_230",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/rear-230",
+      "id": "9fdbead7c416f7b25204edebab304a31b456a11d"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/vr5-one_240",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/vr5-one-240",
+      "id": "9cbcf4cb5b520f4c74a9fa2acbb8e2f8734b3294"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/vr5-two_241",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/vr5-two-241",
+      "id": "f2c51782f63522a790090e30030bd3a6a2484eb3"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/wisconsin_233",
+      "source": "SITEMAPS",
+      "targetPath": "/en/boats/wisconsin-233",
+      "id": "9b68e5a3fb430fd123bd90332291529f2951186b"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/contact-us",
+      "source": "SITEMAPS",
+      "targetPath": "/en/contact-us",
+      "id": "dbeb48d02a1d61cdcbd8298111865ca62f33e2d1"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/franchise",
+      "source": "SITEMAPS",
+      "targetPath": "/en/franchise",
+      "id": "387a2a9199d221cabbfe5df0f137bca7422b5883"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/membership",
+      "source": "SITEMAPS",
+      "targetPath": "/en/membership",
+      "id": "e4c36bd22eb8a47511d1aa0fad043db82072f6a8"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": -1,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "SITEMAPS",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/bases/portsmouth_21017",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.freedomboatclub.co.uk/en/boats/montana_227",
+      "status": "404 Not Found"
+    }
+  ]
+}
