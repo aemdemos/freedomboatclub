@@ -9,48 +9,6 @@
       "id": "66f41ce02b471e3f67460d8e253e6ffd5b64ec7b"
     },
     {
-      "url": "https://www.freedomboatclub.co.uk//ajax.googleapis.com",
-      "source": "CRAWL",
-      "targetPath": "/ajax-googleapis-com",
-      "id": "2bd169b11e8b5f3bd0f8f9a99e80b2ece585a7b8"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//cdn.cookielaw.org/",
-      "source": "CRAWL",
-      "targetPath": "/cdn-cookielaw-org",
-      "id": "d52a1846cd5aa5ebe202abab2f14be6324373c88"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//cdnjs.cloudflare.com",
-      "source": "CRAWL",
-      "targetPath": "/cdnjs-cloudflare-com",
-      "id": "68b6ae4781913f7dde5442ede4b8aa397c58759f"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//connect.facebook.net",
-      "source": "CRAWL",
-      "targetPath": "/connect-facebook-net",
-      "id": "8a21f22aa823d3fe1efe7f2c21298696b488a113"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//www.google-analytics.com",
-      "source": "CRAWL",
-      "targetPath": "/www-google-analytics-com",
-      "id": "5207369802652a951cc08de03bcf66c28b2a6d55"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//www.googleadservices.com",
-      "source": "CRAWL",
-      "targetPath": "/www-googleadservices-com",
-      "id": "833be2ef8f34c806488ce218944ceb78b7efb994"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk//www.googletagmanager.com",
-      "source": "CRAWL",
-      "targetPath": "/www-googletagmanager-com",
-      "id": "790685417210376b68a4d4a32419dab0a6a53ccc"
-    },
-    {
       "url": "https://www.freedomboatclub.co.uk/en",
       "source": "CRAWL",
       "targetPath": "/en",
@@ -61,12 +19,6 @@
       "source": "CRAWL",
       "targetPath": "/en/about-us",
       "id": "d911434380687ad7b24dce6bacb2b0699932d631"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk/en/bases",
-      "source": "CRAWL",
-      "targetPath": "/en/bases",
-      "id": "25d70218720d0f782b86f01e660e81f9608b5f54"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/bases/",
@@ -109,12 +61,6 @@
       "source": "CRAWL",
       "targetPath": "/en/bases/windermere-21021",
       "id": "84ced0bb1d5feec2434f07824933b6312fe16e6a"
-    },
-    {
-      "url": "https://www.freedomboatclub.co.uk/en/boats",
-      "source": "SITEMAPS",
-      "targetPath": "/en/boats",
-      "id": "dc8cdc9bbea88d456c5339d66606c8f749808064"
     },
     {
       "url": "https://www.freedomboatclub.co.uk/en/boats/",
