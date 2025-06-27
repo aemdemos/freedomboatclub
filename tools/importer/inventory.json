@@ -1193,7 +1193,6 @@
     {
       "name": "Hero",
       "cluster": 1,
-      "key": "hero1",
       "instances": [
         {
           "url": "https://www.freedomboatclub.co.uk/en/boats/raer-searay-210-spx_230",
